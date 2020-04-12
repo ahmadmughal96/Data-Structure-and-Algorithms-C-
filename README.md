@@ -1,4 +1,4 @@
-# Data-Structure-and-Algorithms-C-
+# Data-Structure-and-Algorithms-C++
 This repository includes the following data structures and algorithms
 1. Linked List
 2. Stack
